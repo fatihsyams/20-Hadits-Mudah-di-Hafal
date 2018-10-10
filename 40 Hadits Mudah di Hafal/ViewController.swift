@@ -5,6 +5,7 @@
 //  Created by Obed RPL D on 05/10/18.
 //  Copyright © 2018 Syams.org. All rights reserved.
 //
+// Saya Edit ya Tiih XD
 
 import UIKit
 
